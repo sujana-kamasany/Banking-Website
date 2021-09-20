@@ -18,5 +18,8 @@
               <li class="nav-item">
                 <a class="nav-link" href="transactionhistory.php">Transaction History</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="View-Customers.php">View Customers</a>
+             </li>
           </div>
        </nav>
