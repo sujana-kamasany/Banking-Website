@@ -12,6 +12,6 @@ This Basic Banking Systen Website is created with the following specifications
 
 Technologies Used
 
-* Front End: HTML, CSS, JavaScript, Bootstrap
+* Front End: HTML, CSS, Bootstrap
 * Backend: PHP
 * DataBase: MYSQL
