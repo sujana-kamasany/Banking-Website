@@ -21,5 +21,6 @@
               <li class="nav-item">
                 <a class="nav-link" href="View-Customers.php">View Customers</a>
              </li>
-          </div>
+           </ul>  
+         </div>
        </nav>
