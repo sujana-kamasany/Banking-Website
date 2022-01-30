@@ -1,6 +1,6 @@
 # Banking-Website
-# Web Development and Designing Intern
-@The Sparks Foundation
+# Web Development and Designing 
+
 
 This Basic Banking Systen Website is created with the following specifications
 
