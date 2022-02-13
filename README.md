@@ -16,8 +16,9 @@ Technologies Used
 * Backend: PHP
 * DataBase: MYSQL
 
-Website Link : [Click Here](https://www.linkedin.com/posts/sujana--k_gripseptember21-gripsept21-activity-6845917923488489472-Ldpp)
+Link : [Click Here](https://www.linkedin.com/posts/sujana--k_gripseptember21-gripsept21-activity-6845917923488489472-Ldpp)
 
 #
 
-[![Watch the video](![image](https://github.com/sujana-kamasany/Banking-Website/blob/main/Logos/sparks.pngg))](https://youtu.be/BFF7SXEHm5w)
+https://user-images.githubusercontent.com/67040886/153758746-1a34526d-2203-4f37-ac2a-04b159db4378.mp4
+
