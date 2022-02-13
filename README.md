@@ -20,4 +20,4 @@ Website Link : [Click Here](https://www.linkedin.com/posts/sujana--k_gripseptemb
 
 #
 
-[![Watch the video](![image](https://user-images.githubusercontent.com/67040886/153752424-6df81b27-6b66-4959-87bb-8995981989e9.png))](https://youtu.be/BFF7SXEHm5w)
+[![Watch the video](![image](https://github.com/sujana-kamasany/Banking-Website/blob/main/Logos/sparks.pngg))](https://youtu.be/BFF7SXEHm5w)
